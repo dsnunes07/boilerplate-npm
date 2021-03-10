@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name": "Daniel Silva Nunes",
+		"github": "@dsnunes07"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
